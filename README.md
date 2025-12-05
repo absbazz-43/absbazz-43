@@ -50,7 +50,7 @@ Here are some of my key projects (replace with your real repos):
 ## 📫 How to reach me
 
 <!-- Add your email, LinkedIn, or socials here -->
-- Email: youremail@example.com
+- Email: sarkerbishal02@gmail.com
 - LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
 - Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
 
