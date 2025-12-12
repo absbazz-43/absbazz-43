@@ -7,14 +7,14 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=500&lines=Data+Scientist+%7C+Researcher+%7C+PhD+Aspirant;Passionate+about+Causal+Inference,+Machine+Learning,+and+Applied+Statistics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=500&lines= Data+Scientist+%7C+Researcher+%7C+PhD+Aspirant ;Passionate+about+Causal+Inference,+Machine+Learning,+and+Applied+Statistics" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **data science and causal inference projects** in industry and academia.
+- 🔭 I’m currently working on ** data science and causal inference projects ** in industry and academia.
 - 🌱 I’m learning **Bayesian statistics, advanced causal methods, and large-scale predictive modeling**.
 - ⚡ Fun fact: I enjoy building **interactive dashboards, automating analytics pipelines, and open-source contributions**.
 - 🎯 Goal: Pursuing a **PhD in Data Science or Statistics**, focusing on **causal inference, longitudinal modeling, and machine learning applications**.
